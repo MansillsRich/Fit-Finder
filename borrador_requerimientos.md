@@ -8,3 +8,5 @@ Tareas por Tipo de Usuario Usuario default: Crear y personalizar perfil, buscar 
 Datos a Almacenar (MongoDB) El sistema utilizará colecciones para organizar la información:
 • usuarios: nombre, correo, contraseña, edad, ciudad, intereses, tipo_usuario • entrenadores: id_usuario, especialidad, certificaciones, calificación • eventos: nombre, fecha, ubicación, descripción, creador_id • mensajes: emisor_id, receptor_id, contenido, fecha_envío 7. Funciones Principales • Registro e inicio de sesión. • Creación y edición de perfiles. • Búsqueda de compañeros de entrenamiento. • Chat interno entre usuarios. • Calendario de eventos deportivos. • Reporte y bloqueo de usuarios. 8. MVP – Mínimo Producto Viable • Register y login de usuarios. • Visualizar usuarios registrados en la web. • Chat con mensajes predeterminados en la web. 9. Restricciones Técnicas • Backend en Node.js. • Base de datos MongoDB. • Diseño responsivo (desktop y móvil). • Seguridad HTTPS y cifrado de contraseñas.
 10. Fases o Prioridades:Diseño, Backend ,Base de datos, Pruebas.
+
+Esto esta feo, hay que arreglarlo.
