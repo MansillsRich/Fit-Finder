@@ -54,4 +54,5 @@ Datos a Almacenar (MongoDB) El sistema utilizará colecciones para organizar la 
 
 ---Revision---
 
-1/4
+* 1/4
+* 2/4
