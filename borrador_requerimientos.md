@@ -52,4 +52,6 @@ Datos a Almacenar (MongoDB) El sistema utilizará colecciones para organizar la 
 * Base de datos
 * Pruebas.
 
-Esto esta feo, hay que arreglarlo.
+---Revision---
+
+1/4
