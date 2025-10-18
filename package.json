@@ -1,0 +1,29 @@
+{
+  "name": "fit-finder",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000r\u0000o\u0000y\u0000e\u0000c\u0000t\u0000o\u0000 \u0000F\u0000i\u0000t\u0000 \u0000F\u0000i\u0000n\u0000d\u0000e\u0000r\u0000 \u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MansillsRich/Fit-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MansillsRich/Fit-Finder/issues"
+  },
+  "homepage": "https://github.com/MansillsRich/Fit-Finder#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
